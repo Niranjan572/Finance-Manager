@@ -1,0 +1,21 @@
+.about {
+	padding-left: 50px;
+	padding-top: 100px;
+	min-height: 92.3vh;
+	font-family: "Goudy Bookletter 1911", sans-serif;
+	color: white;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.938), rgba(0, 0, 253, 0.5)),
+		url(images/dollor-6173756_960_720.png);
+	background-position: center;
+	background-size: cover;
+	position: relative;
+	top: 0;
+}
+.title {
+	background-color: rgb(7, 26, 90);
+	padding-left: 30px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	width: 700px;
+	border-radius: 25px;
+}

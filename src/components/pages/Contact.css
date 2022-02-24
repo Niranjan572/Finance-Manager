@@ -1,0 +1,56 @@
+.contact {
+	font-family: sans-serif;
+	text-align: center;
+	font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+
+	color: #ffffff;
+}
+.contact {
+	min-height: 92.3vh;
+
+	background-image: linear-gradient(rgba(0, 0, 0, 0.822), rgba(0, 0, 253, 0.5)),
+		url(images/dollor-6173756_960_720.png);
+	background-position: center;
+	background-size: cover;
+	position: relative;
+	top: 0;
+}
+.v > h1 {
+	font-weight: 700;
+	padding-top: 50px;
+}
+/* SOCIAL STUFF */
+.social-container {
+	width: 70%;
+	border-radius: 20px;
+	padding-bottom: 35px;
+	margin-left: 200px;
+	justify-content: center;
+	background: #06013b;
+}
+a.social {
+	padding-top: 50px;
+	margin: 0 1rem;
+	transition: transform 250ms;
+	display: inline-block;
+}
+
+a.social:hover {
+	transform: translateY(-5px);
+}
+
+a.youtube {
+	color: #eb3223;
+}
+
+a.facebook {
+	color: #4968ad;
+}
+
+a.twitter {
+	color: #2600ff;
+}
+
+a.instagram {
+	color: rgb(214, 23, 97);
+}

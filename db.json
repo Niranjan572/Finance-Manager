@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "Niranjan",
+      "username": "24th feb",
+      "email": "Rs.50,00,000",
+      "phone": "Party with friends",
+      "website": "heyyyyaaa",
+      "id": 1
+    },
+    {
+      "name": "ACM",
+      "username": "20th Fb",
+      "email": "Rs.10,00,000",
+      "phone": "Event",
+      "website": "Through sponsors",
+      "id": 2
+    }
+  ]
+}
